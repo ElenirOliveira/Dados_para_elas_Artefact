@@ -67,6 +67,9 @@ Ajudar outras pessoas iniciantes a visualizarem exercícios práticos
 
 Deixo um agradecimento especial à Artefact pela oportunidade de aprendizagem e inclusão, e à minha mentora Amanda Xavier, cujo tempo, paciência e partilha de conhecimento foram fundamentais nesta jornada.
 
+![WhatsApp Image 2025-11-18 at 00 22 07 (1)](https://github.com/user-attachments/assets/fc1f78bf-d49a-423a-bee4-ebb15cf85a81)
+
+
 
 
 ✨ Obrigada por visitar este repositório e acompanhar esta etapa da minha caminhada na área de dados.
